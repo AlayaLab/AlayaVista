@@ -31,12 +31,4 @@ We also introduce **MUGEN**, a real-world panoramic video dataset with **1,318 h
 
 ## Citation
 
-```bibtex
-@techreport{tan2026alayavista,
-  title       = {AlayaVista: Streaming World Modeling from Panoramic States to Perspective Video},
-  author      = {Tan, Jiaming and Zhai, Mingliang and Li, Zhen and Wu, Yuwei and Li, Chuanhao and Zhang, Kaipeng},
-  institution = {Alaya Lab},
-  year        = {2026},
-  url         = {https://alaya-lab.github.io/AlayaVista/assets/AlayaVista.pdf}
-}
-```
+Coming soon.
