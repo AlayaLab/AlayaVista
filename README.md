@@ -16,8 +16,6 @@
 
 **AlayaVista** is a camera-controllable streaming video world model that starts from a single perspective image. It constructs a 360° scene prior, evolves camera-conditioned panoramic latent states, and synthesizes the requested perspective video through latent viewport rendering and local refinement. Chunk-autoregressive generation and few-step distillation enable efficient streaming while concentrating high-fidelity synthesis on the selected viewport.
 
-We also introduce **MUGEN**, a real-world panoramic video dataset with **1,318 hours** of videos at **4K or higher**, rich semantic and geometric annotations, and a **300-hour MUGEN-HQ** subset. AlayaVista is trained on MUGEN and the panoramic subset of Sekai2.
-
 ## 📰 News
 
 - The [project page](https://alaya-lab.github.io/AlayaVista/) and [technical report](https://alaya-lab.github.io/AlayaVista/assets/AlayaVista.pdf) are available.
