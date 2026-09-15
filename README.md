@@ -30,11 +30,13 @@
 ## Citation
 
 ```bibtex
-@article{tan2026alayavista,
-  title   = {AlayaVista: Streaming World Modeling from Panoramic States to Perspective Video},
-  author  = {Tan, Jiaming and Zhai, Mingliang and Li, Zhen and Wu, Yuwei and Li, Chuanhao and Zhang, Kaipeng},
-  journal = {arXiv preprint arXiv:2609.14462},
-  year    = {2026},
-  url     = {https://arxiv.org/abs/2609.14462}
+@misc{tan2026alayavistastreamingworldmodeling,
+      title={AlayaVista: Streaming World Modeling from Panoramic States to Perspective Video},
+      author={Jiaming Tan and Mingliang Zhai and Zhen Li and Yuwei Wu and Chuanhao Li and Kaipeng Zhang},
+      year={2026},
+      eprint={2609.14462},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2609.14462},
 }
 ```
