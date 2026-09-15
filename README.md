@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://alaya-lab.github.io/AlayaVista/"><img src="https://img.shields.io/badge/Project-Page-blue" alt="Project Page"></a>
-  <a href="https://alaya-lab.github.io/AlayaVista/assets/AlayaVista.pdf"><img src="https://img.shields.io/badge/Paper-PDF-red" alt="Paper PDF"></a>
+  <a href="https://arxiv.org/abs/2609.14462"><img src="https://img.shields.io/badge/Paper-arXiv-red" alt="Paper on arXiv"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## 📰 News
 
-- The [project page](https://alaya-lab.github.io/AlayaVista/) and [technical report](https://alaya-lab.github.io/AlayaVista/assets/AlayaVista.pdf) are available.
+- The [project page](https://alaya-lab.github.io/AlayaVista/) and [paper](https://arxiv.org/abs/2609.14462) are available.
 
 ## 🚀 Release Roadmap
 
@@ -29,4 +29,12 @@
 
 ## Citation
 
-Coming soon.
+```bibtex
+@article{tan2026alayavista,
+  title   = {AlayaVista: Streaming World Modeling from Panoramic States to Perspective Video},
+  author  = {Tan, Jiaming and Zhai, Mingliang and Li, Zhen and Wu, Yuwei and Li, Chuanhao and Zhang, Kaipeng},
+  journal = {arXiv preprint arXiv:2609.14462},
+  year    = {2026},
+  url     = {https://arxiv.org/abs/2609.14462}
+}
+```
