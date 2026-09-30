@@ -18,6 +18,7 @@
 
 ## 📰 News
 
+- MUGEN is released! Please refer to the [MUGEN project page](https://alaya-lab.github.io/MUGEN/).
 - The [project page](https://alaya-lab.github.io/AlayaVista/) and [paper](https://arxiv.org/abs/2609.14462) are available.
 
 ## 🚀 Release Roadmap
